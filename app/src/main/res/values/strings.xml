@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ola</string>
+    <string name="title">OLA</string>
+    <string name="title2">PLAY</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Enter Text...</string>
+    <string name="play">PLAY</string>
+</resources>
